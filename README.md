@@ -1,147 +1,252 @@
-# Scale Model Wind Tunnel for Aerodynamic Testing 🌬️🏎️
+# Scale Model Wind Tunnel for Aerodynamic Testing
 
-## Overview
-This project focuses on the design and development of a **scale model open-loop wind tunnel** for aerodynamic testing and flow visualization applications.
+### Mechanical Design | Aerodynamics | CFD | Rapid Prototyping
 
-The primary objective of the project is to create a compact and modular wind tunnel capable of testing small-scale aerodynamic models such as Formula 1 cars, airfoils, UAV components, and bluff bodies while providing reliable airflow characteristics for CFD correlation and experimental analysis.
+**Personal Engineering Project | Work in Progress**
 
-The project is currently a **Work in Progress (WIP)**.
+<p align="center">
+  <img src="https://img.shields.io/badge/Project_Status-In_Development-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/CAD-SolidWorks-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Manufacturing-3D_Printing-blue?style=for-the-badge">
+</p>
 
----
+<p align="center">
+  <a href="images/wind-tunnel-final-render.png">
+    <img src="images/wind-tunnel-final-render.png" width="550" alt="Wind Tunnel CAD Assembly">
+  </a>
+</p>
 
-# Current Project Status 🚧
-
-## Completed
-- ✅ Wind tunnel conceptual design
-- ✅ Full CAD assembly development
-- ✅ Test section design
-- ✅ Flow conditioning layout
-- ✅ Diffuser and contraction geometry design
-- ✅ 3D printable component development
-- ✅ Initial aerodynamic sizing calculations
-- ✅ CAD models finalized
-- ✅ 3D printed prototype components completed
-
-## Ongoing Work
-- 🔄 Structural assembly and integration
-- 🔄 Fan and airflow system optimization
-- 🔄 Experimental testing setup
-- 🔄 Airflow uniformity validation
-- 🔄 Sensor integration
-- 🔄 CFD correlation studies
-- 🔄 Velocity calibration and smoke visualization
-- 🔄 Final fabrication and testing
+<p align="center">
+  <em>Scale model open-loop wind tunnel — Click to enlarge</em>
+</p>
 
 ---
 
-# Project Objectives
-- Develop a compact aerodynamic testing platform
-- Achieve stable and uniform airflow through the test section
-- Enable low-cost aerodynamic experimentation
-- Support CFD validation and flow analysis studies
-- Create a modular and scalable testing setup
+## Project Overview
+
+This project focuses on the design and development of a compact, modular open-loop wind tunnel for aerodynamic testing and flow visualization.
+
+The wind tunnel is designed to support experimental studies of small-scale Formula 1 cars, airfoils, UAV components, and other aerodynamic models.
+
+The project combines mechanical design, aerodynamic sizing, additive manufacturing, and planned CFD-to-experimental validation.
 
 ---
 
-# Design Features
+## Design Objectives
 
-| Feature | Description |
+- Develop a compact, low-cost aerodynamic testing platform.
+- Achieve stable and uniform airflow through the test section.
+- Enable modular assembly and interchangeable test models.
+- Support flow visualization and aerodynamic measurements.
+- Establish an experimental platform for CFD correlation.
+
+---
+
+## Design Specifications
+
+| Parameter | Description |
 |---|---|
-| Wind Tunnel Type | Open Loop |
-| Application | Aerodynamic Testing |
-| Manufacturing Method | 3D Printing + Fabrication |
+| Wind Tunnel Type | Open-Loop |
+| Application | Aerodynamic Testing & Flow Visualization |
 | CAD Software | SolidWorks |
-| Analysis Methods | CFD + Experimental Validation |
-| Modular Design | Yes |
-| Test Models | F1 Models, Airfoils, UAV Components |
+| Manufacturing | 3D Printing & Prototype Fabrication |
+| Architecture | Modular Assembly |
+| Flow Conditioning | Flow Straightening & Contraction |
+| Analysis Methods | CFD & Experimental Testing |
+| Test Models | Formula 1 Cars, Airfoils, UAV Components |
+| Project Status | Work in Progress |
 
 ---
 
-# Engineering Work Completed
+## Engineering Development
 
-## CAD Design
-- Developed a complete wind tunnel assembly in SolidWorks
-- Designed modular test section and support structures
-- Optimized contraction and diffuser geometry
-- Designed flow straightening layout
+### Mechanical Design
 
-## Manufacturing
-- Completed 3D printing of prototype components
-- Prepared assembly-ready CAD files
-- Optimized parts for manufacturability and assembly
+- Developed the complete wind tunnel CAD assembly in SolidWorks.
+- Designed modular test section, contraction, diffuser, and support structures.
+- Integrated flow conditioning and straightening components.
+- Optimized component geometry for 3D printing and assembly.
 
-## Aerodynamic Development
-- Initial airflow calculations completed
-- Test section sizing finalized
-- Velocity target planning performed
-- CFD planning for flow validation initiated
+### Aerodynamic Design
 
----
+- Completed preliminary airflow and aerodynamic sizing calculations.
+- Defined test section dimensions and initial velocity targets.
+- Developed contraction and diffuser geometries for airflow management.
+- Established a CFD analysis plan for evaluating flow uniformity.
 
-# Tools & Technologies Used
+### Manufacturing & Prototyping
 
-## CAD & Design
-- SolidWorks
-- Engineering Drawings
-- Assembly Modeling
-
-## Simulation & Analysis
-- OpenFOAM
-- ANSYS Fluent
-- CFD Validation
-
-## Manufacturing
-- 3D Printing
-- Prototype Fabrication
-- Modular Assembly
+- Completed 3D printing of prototype components.
+- Prepared assembly-ready CAD models.
+- Designed modular interfaces for fabrication and integration.
+- Initiated structural assembly and airflow system integration.
 
 ---
 
-# Planned Testing & Validation
-The upcoming project phases include:
-- Airflow velocity measurements
-- Smoke flow visualization
-- Turbulence reduction studies
-- CFD-to-experimental correlation
-- Aerodynamic coefficient measurements
-- Flow uniformity validation
+## Design & Prototype Gallery
+
+<p align="center">
+  <em>Click any image to view the full-resolution design.</em>
+</p>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="images/wind-tunnel-assembly.png">
+        <img src="images/wind-tunnel-assembly.png" width="350" alt="Complete Wind Tunnel Assembly">
+      </a>
+      <br>
+      <b>Complete CAD Assembly</b>
+      <br>
+      <sub>Integrated open-loop wind tunnel configuration</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="images/wind-tunnel-exploded.png">
+        <img src="images/wind-tunnel-exploded.png" width="350" alt="Exploded Wind Tunnel Assembly">
+      </a>
+      <br>
+      <b>Exploded Assembly</b>
+      <br>
+      <sub>Modular components and assembly architecture</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="images/contraction-diffuser.png">
+        <img src="images/contraction-diffuser.png" width="350" alt="Contraction and Diffuser Design">
+      </a>
+      <br>
+      <b>Contraction & Diffuser Design</b>
+      <br>
+      <sub>Aerodynamic geometry and airflow management</sub>
+    </td>
+    <td align="center">
+      <a href="images/test-section.png">
+        <img src="images/test-section.png" width="350" alt="Wind Tunnel Test Section">
+      </a>
+      <br>
+      <b>Test Section Design</b>
+      <br>
+      <sub>Modular aerodynamic testing chamber</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="images/3d-printed-components.png">
+        <img src="images/3d-printed-components.png" width="350" alt="3D Printed Wind Tunnel Components">
+      </a>
+      <br>
+      <b>3D Printed Components</b>
+      <br>
+      <sub>Manufactured prototype components</sub>
+    </td>
+    <td align="center">
+      <a href="images/physical-prototype.png">
+        <img src="images/physical-prototype.png" width="350" alt="Physical Wind Tunnel Prototype">
+      </a>
+      <br>
+      <b>Physical Prototype</b>
+      <br>
+      <sub>Fabrication and assembly progress</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-# Future Scope
-- Formula 1 scale aerodynamic testing
+## CAD Models & Design Files
+
+The repository contains CAD models and assembly files developed for the wind tunnel, including:
+
+- Complete wind tunnel assembly
+- Contraction and diffuser components
+- Modular test section
+- Flow conditioning components
+- 3D printable prototype parts
+
+<p align="center">
+  <a href="./CAD-Files/">
+    <img src="https://img.shields.io/badge/View_CAD_Models-Design_Files-007ACC?style=for-the-badge&logo=solidworks&logoColor=white" alt="View CAD Models">
+  </a>
+</p>
+
+---
+
+## Project Development Status
+
+### Completed
+
+- [x] Conceptual wind tunnel design
+- [x] Complete SolidWorks CAD assembly
+- [x] Test section and flow conditioning layout
+- [x] Contraction and diffuser geometry
+- [x] Preliminary aerodynamic sizing calculations
+- [x] Design for additive manufacturing
+- [x] 3D printing of prototype components
+
+### In Progress
+
+- [ ] Structural assembly and integration
+- [ ] Fan selection and airflow optimization
+- [ ] Sensor integration and data acquisition
+- [ ] Velocity calibration and flow uniformity testing
+- [ ] Smoke flow visualization
+- [ ] CFD-to-experimental correlation
+- [ ] Final fabrication and aerodynamic testing
+
+---
+
+## Planned Testing & Validation
+
+| Test | Objective |
+|---|---|
+| Velocity Calibration | Measure airflow velocity across the test section |
+| Flow Uniformity | Evaluate velocity distribution and consistency |
+| Smoke Visualization | Observe flow patterns and separation |
+| Turbulence Assessment | Evaluate flow conditioning effectiveness |
+| CFD Correlation | Compare numerical and experimental results |
+| Aerodynamic Testing | Investigate lift, drag, and flow behavior |
+
+> [!NOTE]
+> Experimental testing and CFD validation are ongoing development objectives. Performance measurements and validation results will be added as the project progresses.
+
+---
+
+## Tools & Engineering Methods
+
+| Category | Tools & Methods |
+|---|---|
+| CAD & Mechanical Design | SolidWorks |
+| Aerodynamic Analysis | Preliminary Sizing, Flow Conditioning |
+| CFD | OpenFOAM, ANSYS Fluent |
+| Manufacturing | 3D Printing, Prototype Fabrication |
+| Mechanical Development | Modular Assembly, DFM/DFA |
+| Planned Validation | Flow Visualization, Velocity Measurements, CFD Correlation |
+
+---
+
+## Future Applications
+
+- Formula 1 scale model aerodynamic testing
 - Airfoil lift and drag experiments
-- UAV aerodynamic studies
-- Active aerodynamic testing
-- Sensor-integrated data acquisition
-- Automated testing platform development
+- UAV component aerodynamic studies
+- Active aerodynamic system testing
+- Sensor-integrated aerodynamic measurements
+- Automated experimental data acquisition
 
 ---
 
-# Repository Contents
-This repository includes:
-- CAD Models
-- Wind Tunnel Assembly Files
-- Design Renders
-- 3D Print Files
-- Engineering Documentation
-- Project Images
-- Future CFD Results & Testing Data
+## Contact
 
----
+**Anoop Subramanya**
 
-# Project Status
- **Work in Progress**  
-Further fabrication, integration, CFD validation, and aerodynamic testing are currently underway.
-
----
-
-# Author
-**Anoop MS**  
-Mechanical Engineer | CFD | FEA | Mechanical Design | Aerodynamics
+Mechanical Engineer | Aerodynamics | CFD | Mechanical Design
 
 - LinkedIn: www.linkedin.com/in/anoopsubramanya
-- Portfolio: https://anoopsubramanya.framer.website/
+- Email: anoopms2001@gmail.com
 
 ---
-*"Designing engineering tools to explore the science of aerodynamics."*
+
+<p align="center">
+  <b>Design. Build. Test. Understand the flow.</b>
+</p>
