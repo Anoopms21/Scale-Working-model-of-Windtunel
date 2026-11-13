@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="images/wind-tunnel-final-render.png">
-    <img src="images/wind-tunnel-final-render.png" width="550" alt="Wind Tunnel CAD Assembly">
+  <a href="WindTunnel CAD.png">
+    <img src="WindTunnel CAD.png" width="550" alt="Wind Tunnel CAD Assembly">
   </a>
 </p>
 
